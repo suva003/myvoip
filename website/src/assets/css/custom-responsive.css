@@ -1,0 +1,775 @@
+@media screen and (max-width: 1490px) {
+    .BannerCaption h1{
+        font-size: 1.9rem;
+    }
+    .BannerCaption .phone___no{
+        font-size: 18px;
+    }
+    .social_media li{
+        margin-right: 17px;
+    }
+    .BannerCaption .social_media li a {
+    font-size: 18px;
+}
+.New_____LatestPro h6{
+    font-size: 12px;
+}
+.New_____LatestPro h5{
+    font-size: 15px;
+}
+.My____Price h4{
+    font-size: 26px;
+}
+.My____Price h4 small{
+    font-size: 15px;
+}
+}
+
+@media screen and (max-width: 1280px) {
+    .index_upselling_product {
+        padding: 30px 0;
+    }
+    .index_special_product_banner .left_top_img,
+    .index_special_product_banner .right_bottom_img {
+        display: none;
+    }
+
+    .Main__logo{
+        width: 140px;
+    }
+    .Main___Header {
+    padding-top: 2.0rem;
+}
+.Main___Header .Nav__Middle .mr-3{
+    margin-right: .7rem !important;
+}
+.Main___Header .Nav__Middle .ml-3{
+    margin-left: .7rem !important;
+}
+.Main___Header .Nav__Middle{
+    font-size: .9rem;
+}
+.Main___Header .Nav__Middle .dropdown-menu a{
+ font-size: .8rem;
+}
+.Nav__Right{
+    top: 2rem;
+}
+.BannerCaption h1 {
+    font-size: 1.5rem;
+}
+.BannerCaption h5{
+    font-size: .8rem;
+}
+.BannerCaption .phone___no {
+    font-size: 14px;
+}
+.social_media li {
+    margin-right: 10px;
+}
+.BannerCaption .social_media li a {
+    font-size: 14px;
+}
+.TextSlider{
+    display: none;
+}
+    .BannerbusinessVoipcont h1{
+        font-size: 2rem;
+    }
+    .videoconferencing {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+    .videoconferencing .card-body{
+        padding: 0px;
+    }
+    
+    .slide_textwrap p{
+        font-size: 25px;
+    }
+    .contact_centers_banner p.maintext{
+        font-size: 18px;
+        line-height: normal;
+    }
+    .contact_centers_banner{
+        height: 320px;
+    }
+    .banner_bottom_services .item-col .item_img{
+        width: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .banner_bottom_services .item-col .item_img img{
+        width: 100%;
+        height: auto
+    }
+    .banner_bottom_services .item-col h3{
+        font-size: 1rem;
+    }
+    .banner_bottom_services .item-col p{
+        font-size: .80rem;
+        line-height: normal;
+    }
+    .about_contact_centers .text_description h3{
+        font-size: 1.5rem;
+    }
+    .about_contact_centers .text_description p{
+        font-size: 1rem;
+    }
+    .contact_centers_benefits h3{
+        font-size: 1.8rem;
+    }
+    .contact_centers_benefits .benefit_item .img_back{
+        width: 70px;
+        height: 70px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .contact_centers_benefits .benefit_item .img_back img{
+         width: 100%;
+        height: auto;
+    }
+    
+    .contact_centers_benefits .benefit_item h3{
+        font-size: 1rem;
+    }
+    .contact_centers_benefits .benefit_item{
+        font-size: .80rem;
+    }
+    
+    .workforce_management .img_back{
+        max-width: 50%;
+    }
+    .workforce_management .text_wrap h2{
+        font-size: 1.20rem;
+        margin-bottom: 18px;
+    }
+    
+    .workforce_management .text_wrap{
+        padding: 30px;
+        font-size: .80rem;
+    }
+    .workforce_management .text_wrap .quote{
+        margin-top: 60px;
+        padding-top: 60px;
+    }
+    .workforce_management .text_wrap .quote:after{
+        width: 150px;
+        height: 150px;
+    }
+    .workforce_management .text_wrap .quote h4{
+        font-size: 1.20rem;
+    }
+    .index_pricing_structure .pricing_grp .pricing_item h2{
+        font-size: 1.5rem;
+    }
+    .index_pricing_structure .pricing_grp .pricing_item .price_tag_back .price{
+        font-size: 1.8rem;
+    }
+    .index_pricing_structure.Inner-Pricing-Plan .pricing_grp .pricing_item .price_tag_back{
+        padding-top: 10px;
+        margin-bottom: 12px;
+    }
+    .index_pricing_structure .pricing_grp .pricing_item .Subscription_box{
+        margin-top: 20px;
+        font-size: .80rem;
+    }
+    .Inner-Pricing-Plan.index_pricing_structure .pricing_grp .pricing_item .Subscription_box ul li{
+        font-size: .80rem;
+        width: 100%;
+        margin-bottom: 7px;
+    }
+    
+}
+
+@media screen and (max-width: 1023px) {
+    .banner_bottom_services .item-col .item_img {
+        margin-bottom: 20px;
+    }
+    .about_welcome_wrap {
+        width: 100%;
+/*        display: block !important;*/
+        flex-wrap: wrap;
+    }
+    .about_welcome_wrap .text_wrap {
+        width: 100%;
+        display: block !important;
+    }
+    .about_welcome_wrap .img_wrap {
+        width: 100%;
+        height: 300px;
+        display: block !important;
+    }
+    .about_welcome_wrap .text_wrap .text_cont {
+        padding: 5%;
+    }
+    .about_welcome_wrap .text_wrap .text_cont h2 {
+        font-size: 40px;
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+    }
+    .testimonial_cont .item {
+        margin-bottom: 50px;
+    }
+    .about_quick_contact_banner .banner_text h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .about_quick_contact_banner .banner_text h3 {
+        font-size: 45px;
+        margin: 0% 25% 0% 25%;
+        padding: 10px 10px 10px 10px;
+        border-width: 3px 0px 3px 0px;
+    }
+    
+    .contact_centers_banner p.maintext {
+        padding-top: 0px;
+        font-size: 16px;
+        line-height: 22px;
+        max-width: 600px;
+    }
+    .contact_centers_benefits h3 {
+        font-size: 30px;
+    }
+    .contact_centers_benefits {
+        overflow: hidden;
+    }
+    .workforce_management .text_wrap h2 {
+        font-size: 35px;
+    }
+    .workforce_management {
+        margin-top: 80px;
+        padding-left: 10%;
+        padding-top: 30%;
+    }
+    .customer_testimonial h2 {
+        font-size: 35px;
+    }
+    .newsletter .content h2 {
+        font-size: 35px;
+    }
+	.my-account {
+    position: fixed;
+    right: 25%;
+    top: 1%;
+	text-align: right;
+}
+.BannerCaption{
+    /*left: 0px;
+    right: 0px;*/
+}
+.phone___no__cont{
+    width: 100%;
+    margin: 0px!important;
+    padding-bottom: 20px;
+}
+.d-inline.social_media___cont{
+    display: none!important;
+}
+.BannerCaption .phone___no {
+    font-size: 18px;
+}
+/*
+.IndexplanspricingPageContainer{
+    display: none;
+}
+*/
+.Main___Header .Nav__Middle{
+    display: none;
+}
+.emaillist{
+    margin-right: auto;
+    margin-left: initial;
+}
+.nav-top{
+    display: flex;
+}
+.Nav__Right{
+    right: 50px;
+}
+#SearchField .modal-content{
+    padding: 0px;
+}
+#PlansPricingSlider .owl-stage-outer{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+        .BannerCaption{
+        padding-left: 15px;
+        padding-right: 15px;
+            left: 0px;
+            right: 0px;
+    }
+    
+    .New_____LatestPro, .MyVoipBottomContact, .FooterNewsLetterSection, .FooterLinkSection, .FooterCopyrightSection{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .businessVoipBodycontainer h2{
+        font-size: 2.5rem;
+    }
+    .videoconferencing{
+        padding-top: 0px;
+    }
+    .videoconferencingvideopic{
+        position: relative;
+        width: 100%;
+        height: 500px;
+        margin-bottom: 30px;
+    }
+    .banner_bottom_services .item-col .item_img{
+        width: 40px;
+    }
+    
+    .HostedFaxPortalBodytop img {
+    max-height: 400px;
+}
+    .HostedFaxPortalBodytop h2{
+        font-size: 1.5rem;
+    }
+    .about_welcome_wrap .img_wrap{
+        order: 1;
+    }
+    .about_welcome_wrap .text_wrap{
+        order: 2;
+    }
+}
+
+@media screen and (max-width:767px) {
+   
+    .index_upselling_product h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .index_upselling_product .product_grp .product_item .main_bodycont h5 {
+        font-size: 15px;
+    }
+    .index_upselling_product .product_grp .product_item .main_bodycont h4 {
+        font-size: 18px;
+    }
+    .index_upselling_product .product_grp .product_item .main_bodycont .btn_group a {
+        font-size: 12px;
+    }
+    .footer_top .footer_col h6,
+    .footer_top .footer_col h6 a {
+        line-height: 1.6;
+        font-size: 12px;
+    }
+    .footer_top .footer_col button {
+        padding: 12px 30px;
+        font-size: 10px;
+    }
+    .footer_bottom {
+        text-align: center;
+    }
+    .footer_bottom .float-left,
+    .footer_bottom .float-right {
+        float: none !important;
+        display: block;
+    }
+    .index_pricing_structure .pricing_grp .pricing_item .price_tag_back {
+        background-size: 100%;
+        height: 110px;
+        padding-top: 20px;
+        margin-bottom: 35px;
+    }
+    .customer_testimonial {
+        padding: 80px 0px 50px;
+    }
+    .about_quick_contact_banner {
+        padding: 50px 0px;
+    }
+    .about_quick_contact_banner .banner_text h3 {
+        font-size: 45px;
+        margin: 0% 20% 0% 20%;
+    }
+   .slide_textwrap p {
+    font-size: 18px;
+}
+    .contact_centers_banner p.maintext {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .banner_bottom_services .item-col h3 {
+        font-size: 16px;
+    }
+    .about_contact_centers .text_description h3 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .about_contact_centers .text_description p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .workforce_management .img_back {
+    max-width: 100%;
+        position: relative;
+}
+    .about_contact_centers .col-md-5 {
+        display: none;
+    }
+    .contact_centers_benefits h3 {
+        font-size: 25px;
+    }
+    .contact_centers_benefits .benefit_item h3 {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .contact_centers_benefits .benefit_item p {
+        font-size: 14px;
+    }
+    .workforce_management {
+        margin-top: 45px;
+        padding-left: 0;
+        padding-top: 0%;
+    }
+    .workforce_management .text_wrap {
+        padding: 20px;
+    }
+    .workforce_management .text_wrap h2 {
+        font-size: 25px;
+    }
+    .workforce_management .text_wrap p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .customer_testimonial {
+        padding-top: 60px;
+    }
+    .customer_testimonial h2 {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    .newsletter .content h2 {
+        font-size: 25px;
+    }
+    .newsletter .content p {
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .newsletter {
+        padding: 40px 0;
+    }
+    .contact_innerpage_details .col-md-6 {
+        margin-bottom: 60px;
+    }
+    .contact_innerpagecont h3 {
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+    .map_cont iframe {
+        height: 250px;
+    }
+    .HostedFaxPortalBodytop h2 {
+        font-size: 25px;
+    }
+    .HostedFaxPortalBanner a {
+        padding: 15px 30px;
+        font-size: 12px;
+    }
+    .HostedFaxPortalBodytop .btn-wrapper a {
+        padding: 15px 30px;
+        font-size: 12px;
+    }
+    .Fax-trial .hvr-bounce-to-right {
+        padding: 15px 30px;
+        font-size: 12px;
+    }
+    .HostedFaxPortalBodymiddle h2 {
+        font-size: 25px;
+    }
+    .containerseveralwaysfax .items .item-wrapper .item {
+        border-radius: .3rem;
+        padding: 1rem;
+    }
+    .containerseveralwaysfax h2 {
+        font-size: 25px;
+    }
+    
+    .index_upselling_product .product_grp.upsalling-products .product_item .ProductOverlay{
+        display: none;
+    }
+    .index_upselling_product .product_grp.upsalling-products .product_item .btn_group {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-left: 0;
+    margin-top: 0px;
+    z-index: 1;
+    transform: scale(1,1);
+}
+.logintext{
+    display: none;
+}
+.Nav__Right .pl-4{
+    padding-left: 1.2rem !important;
+}
+.Nav__Right .pr-4{
+    padding-right: 1.2rem !important;
+}
+.Main__logo {
+    width: 120px;
+}
+.BannerCaption .phone___no{
+    font-size: 15px;
+}
+.BannerCaption .phone___no .ml-4{
+    margin-left: 1rem !important;
+}
+.Side_______Text{
+    display: none;
+}
+#SearchField label{
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+}
+#SearchField input[type="search"]{
+    border-radius: 4px 4px 0 0;
+}
+
+#SearchField input[type="submit"]{
+    width: 100%;
+    margin: 0px;
+    border-radius: 0px 0px 4px 4px;
+    margin-top: -5px;
+}
+    .BannerbusinessVoipcont .mb60{
+        margin-bottom: 20px;
+    } 
+    .BannerbusinessVoipcont h1, .businessVoipBodycontainer h2{
+        font-size: 1.5rem;
+    }
+    .BannerbusinessVoipcont h5{
+        font-size: 1rem;
+    }
+    .videoconferencingvideopic{
+        height: 300px;
+    }
+    .videoicon {
+        width: 80px;
+        height: 80px;
+        margin-top: -40px;
+        margin-left: -40px;
+    }
+    .BannerbusinessVoipcont {
+        padding-top: 0px;
+    }
+    .businessVoipBodycontainer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .businessVoipBodycontainer .feature-items .card img{
+        height: 60px;
+    }
+    .cloud_phoneCont h3, .videoconferencing h3 {
+        font-size: 1.4rem;
+    }
+    .HowToConnectContainer {
+         padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .HowToConnectContainer h2{
+       font-size: 1.7rem; 
+    }
+    .breadcrumb li{
+        font-size: 11px;
+    }
+    .Productdetailstoppart .product-title h4{
+        font-size: 1.2rem;
+    }
+    .Productdetailstoppart .product-sku {
+    font-size: 1rem;
+}
+    .Productdetailstoppart .P_descri{
+        font-size: 1rem;
+    }
+    .Productdetailstoppart .P_Button{
+        margin-top: 7px;
+    }
+    .ProductdetailsBottompart .nav-pills .nav-link {
+        margin-bottom: 2px;
+    }
+    .Sortreviewscontainer {
+        margin-top: 40px;
+    }
+    .Sortreviewscontainer .form-control {
+        margin-bottom: 3px;
+    }
+    .reatingcontainer h2{
+        font-size: 1.5rem;
+    }
+    .ratingstartext{
+        font-size: 1.2rem;
+    }
+    .proscoin ul{
+        margin-bottom: 20px;
+    }
+    .WriteAReview{
+        padding-top: 30px;
+    }
+}
+
+@media screen and (max-width:639px) {
+    .about_welcome_wrap .text_wrap .text_cont h2 {
+        font-size: 25px;
+        margin-bottom: 8px;
+    }
+    .about_welcome_wrap .text_wrap .text_cont p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    .some_categories {
+        padding: 20px 0;
+    }
+    .category_item .img_back {
+        max-width: 40px;
+    }
+    .category_item .text {
+        padding-left: 60px;
+    }
+    .category_item .text h3 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+    .category_item .text p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .customer_testimonial {
+        padding: 50px 0px 20px;
+    }
+    .customer_testimonial h2 {
+        font-size: 25px;
+        margin-bottom: 40px;
+    }
+    .testimonial_cont .item p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .testimonial_cont .item .text h4 {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+    .about_quick_contact_banner {
+        padding: 30px 0;
+    }
+    .about_quick_contact_banner .banner_text h2 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .about_quick_contact_banner .banner_text h3 {
+        font-size: 30px;
+        margin: 0% 5% 0% 5%;
+    }
+    .HostedFaxPortalBodytop img {
+        display: none;
+    }
+    .HostedFaxPortalBodymiddle .container .items {
+        padding: 0;
+    }
+    .HostedFaxPortalBodymiddle .container .items .item-wrapper .item {
+        padding: 20px 10px;
+        font-size: 14px;
+    }
+    .containerseveralwaysfax .items {
+        padding: 0;
+    }
+    .containerseveralwaysfax .items .item-wrapper .item {
+        border-radius: .3rem;
+        padding: 20px 10px;
+        font-size: 14px;
+    }
+    .upsalling-products .col-6{
+        width: 100%;
+        height: auto;
+        max-width: none;
+        flex: auto;
+    }
+    .newsletter-form .form-control{
+        width: 100%;
+    }
+    
+    .newsletter-form .btn-primary{
+        width: 100%;
+        margin-top: 10px;
+        height: 50px;
+    }
+    .FooterHelpSection .float-left img{
+        width: 100%;
+    }
+    .FooterHelpSection .float-right img{
+        width: 50%;
+    }
+    .footer-links-column{
+        margin-bottom: 30px;
+    }
+    .FooterCopyrightSection .social_media, .copyright{
+    text-align: center;
+}
+    .NewBannerContainer .owl-carousel .owl-item, .NewBannerContainer .owl-carousel .owl-item .item{
+        height: 500px;
+    }
+    .New_____LatestPro{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+/*
+    .Side_______Nav a{
+        display: inline-block;
+        background-color: #000;
+        color: #fff;
+        border-radius: 4px;
+        margin-bottom: 2px;
+        font-size: 12px;
+    }
+*/
+    .upsalling-products .p-4{
+        
+    }
+    .N_product_itemContainer{
+    margin-top: 30px;
+}
+    .planspricingPageContainer{
+        padding-top: 30px;
+    }
+    .P__Page-Heading{
+        padding-top: 0px;
+    }
+    .MyVoipBottomContact h3{
+        font-size: 1.2rem;
+    }
+    .MyVoipBottomContact h3 span{
+        display: block;
+    }
+    .FooterNewsLetterSection h3{
+        font-size: 1.2rem;
+    }
+    .P__Page-Heading h2{
+        font-size: 1.5rem;
+    }
+    .plansTable .ButtonContent .col-sm-6{
+        padding-left: .75rem !important;
+        padding-right: .75rem !important;
+    }
+    .plansTable .ButtonContent .btn-warning{
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width:439px) {
+    .index_special_product_banner .banner_text {
+        left: 15%;
+        top: 27%;
+    }
+
+
+}
